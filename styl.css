@@ -1,0 +1,34 @@
+/* Mateusz do home page */
+div[class="mw-menu"] {
+    text-align: right;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    width: 100%;
+}
+
+div[class="mw-columns"] {
+    display: flex;
+
+}
+
+div[class="mw-box"] {
+    padding: 10px;
+
+}
+
+@media (max-width: 768px) {
+    .mw-columns {
+        flex-direction: column;
+    }
+}
+
+.mw-sources a:hover {
+    color: pink;
+}
