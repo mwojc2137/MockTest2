@@ -32,3 +32,16 @@ div[class="mw-box"] {
 .mw-sources a:hover {
     color: pink;
 }
+/*Mateusz Images page */
+
+h1[class=h1-cls] {
+    text-align: center;
+}
+
+.mw-images img {
+    width: 50%;
+    height: 30%;
+    margin-bottom: 1cm;
+    padding: 20px;
+    background-color: grey;
+}
