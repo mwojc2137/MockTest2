@@ -1,0 +1,9 @@
+#title{
+    text-align: center;
+}
+#text1,#text2{
+    background-color: blue;
+}
+#submit,#reset{
+    background-color: green;
+}
