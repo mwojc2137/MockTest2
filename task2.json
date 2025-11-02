@@ -1,0 +1,22 @@
+[
+    {
+        "technology": "Networking",
+        "devices": 50,
+        "isCritical": true
+    },
+    {
+        "technology": "Cloud Computing",
+        "storageTB": 200,
+        "isPublic": false
+    },
+    {
+        "technology": "Cybersecurity",
+        "firewalls": 10,
+        "isActive": true
+    },
+    {
+        "technology": "Artificial Intelligence",
+        "projects": 5,
+        "isExperimental": false
+    }
+]
