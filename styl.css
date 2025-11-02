@@ -1,0 +1,12 @@
+.h1-cls{
+    text-align: center;
+}
+
+#divlista{
+    float: left;
+    border: 1px solid black;
+    font-weight: bold;
+}
+#diva{
+    clear: both;
+}
