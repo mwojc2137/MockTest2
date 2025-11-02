@@ -1,3 +1,4 @@
+
 /* Mateusz do home page */
 div[class="mw-menu"] {
     text-align: right;
@@ -45,3 +46,30 @@ h1[class=h1-cls] {
     padding: 20px;
     background-color: grey;
 }
+
+/* A.Y. task2 */
+
+.h1-cls {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    margin: 25px 0;
+    font-size: 18px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th {
+    border-collapse: collapse;
+    background-color: black;
+    color: white;
+    padding: 12px;
+}
+
+td {
+    border: 2px solid gray;
+    text-align: left;
+}
+

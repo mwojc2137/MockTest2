@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<technologies>
+    <technology type="networking">
+        <name>LAN</name>
+        <purpose>Connect computers locally</purpose>
+        <example>Office network</example>
+    </technology>
+    <technology type="cloud">
+        <name>AWS</name>
+        <purpose>Store and process data online</purpose>
+        <example>EC2 instance</example>
+    </technology>
+    <technology type="cybersecurity">
+        <name>Firewall</name>
+        <purpose>Protect systems from attacks</purpose>
+        <example>Hardware firewall</example>
+    </technology>
+    <technology type="ai">
+        <name>ChatGPT</name>
+        <purpose>Automate tasks and analyze data</purpose>
+        <example>Chatbot</example>
+    </technology>
+</technologies>
