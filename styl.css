@@ -4,11 +4,11 @@ div[class="mw-menu"] {
     margin: 0 auto;
 }
 
-h1 {
+h1[class="h1-cls"] {
     text-align: center;
 }
 
-p {
+p[class="mw-paragraph"]  {
     text-align: justify;
     width: 100%;
 }
