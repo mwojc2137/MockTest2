@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /* Mateusz do home page */
 div[class="mw-menu"] {
@@ -73,3 +74,14 @@ td {
     text-align: left;
 }
 
+
+#title{
+    text-align: center;
+}
+#text1,#text2{
+    background-color: blue;
+}
+#submit,#reset{
+    background-color: green;
+}
+>>>>>>> 143bcc4 (task4)
